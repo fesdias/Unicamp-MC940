@@ -1,2 +1,2 @@
 # Unicamp-MC940
-Projetos desenvolvidos para a matéria de Processamento e Análise de imagens.
+Projects developed for the Image Processing and Analysis course.
